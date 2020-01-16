@@ -1,0 +1,8 @@
+install.packages("naniar")
+install.packages("ggplot2")
+install.packages('xgboost')
+install.packages('caret')
+install.packages('e1071')
+install.packages('pROC')
+install.packages('Ckmeans.1d.dp')
+install.packages('DiagrammeR')
